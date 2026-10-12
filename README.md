@@ -132,7 +132,7 @@ The dashboard provides a single-page overview of customer investments, stock pre
 
 - `Stock Market Investor Dashboard.pbix` – Power BI dashboard file
 - `README.md` – Project documentation
-- `images/dashboard-preview.png` – Dashboard screenshot
+- `smiss.png` – Dashboard screenshot
 
 ## ⚠️ Disclaimer
 
